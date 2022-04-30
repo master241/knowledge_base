@@ -8,3 +8,4 @@
     * `ls -a` - List All
 * `cd` - Change Directory
     * `cd project` - navigate to `project`, that is it's subdirectory
+* 
